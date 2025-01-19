@@ -10,4 +10,10 @@
         align-items: center;
         font-family: var(--font-unica);
     }
+    .strength {padding-block: 70rem;
+        ul { display: flex;justify-content: space-between;} 
+        ul>li>figure{display:flex;flex-direction:column;border:1px solid #ddd;padding:30rem 40rem;align-items: center;gap: 20rem;}
+        ul>li>figure>img { display: block;background-color: #e1e2e3; width: 200rem;height: 200rem;}
+        ul>li>figure>figcaption { font-size: var(--fs22);}
+    }
 }
