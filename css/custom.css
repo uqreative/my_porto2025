@@ -1,0 +1,13 @@
+/* For overrides to the default theme */
+
+.main {
+    .visual {
+        background-color: #415c76;
+        width: 100svw;
+        height: 100svh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: var(--font-unica);
+    }
+}

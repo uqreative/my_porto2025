@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Unica"; /* Choose a name for your font */
+    src: url("/css/font/Unica_One/UnicaOne-Regular.woff") format("woff"); /* Path to your font file */ 
+}
+
+@font-face {
+    font-family: "Crimson Text"; /* Choose a name for your font */
+    src: url("/css/font/Crimson_Text/CrimsonText-Regular.ttf") format("ttf"); /* Path to your font file */
+    font-weight: normal; /* Optional: Set font weight */
+    font-style: normal; /* Optional: Set font style (e.g., italic) */
+}
+
+@font-face {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("/css/font/Crimson_Text/CrimsonText-Regular.ttf") format('woff');
+  }
+@font-face {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url("/css/font/Crimson_Text/CrimsonText-SemiBold.woff") format('woff');
+  }
+@font-face {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("/css/font/Crimson_Text/CrimsonText-Bold.woff") format('woff');
+  }
